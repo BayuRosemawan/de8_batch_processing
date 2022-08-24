@@ -1,0 +1,10 @@
+{
+    "postgresql":{
+        "host":"localhost",
+        "database":"digitalskola",
+        "user":"postgres",
+        "password":"271252",
+        "port":5432
+    }
+
+}
